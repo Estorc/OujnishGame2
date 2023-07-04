@@ -1,1 +1,1 @@
-<Version: [1.0.5,"https://github.com/Estorc/OujnishGame2/blob/main/Background.png?raw=true"]>
+<"1.0.5": "https://github.com/Estorc/OujnishGame2/blob/main/Background.png?raw=true"]>
