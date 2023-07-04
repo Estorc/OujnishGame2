@@ -1,8 +1,1 @@
-<"1.0.1": "update-1.0.5.zip">
-<"1.0.2": "update-1.0.5.zip">
-<"1.0.3": "update-1.0.5.zip">
-<"1.0.4": "update-1.0.5.zip">
-<"1.0.5": "update-1.0.5.zip">
-<"1.0.6": "update-1.0.5.zip">
-<"1.0.7": "update-1.0.5.zip">
-<"1.0.9": ['download937.mediafire.com','/69lpvuzwltcg-645LnTSZYsgQJevUDAM_tAtajETX0RWNI_bSMMTxdteotbpkAigConKrNR-Pm8-ucGqQduyo4Y6F9PGxH6zmKjvZA_bKlS8pM1MTo8Grg0r4WrRTz8KnYzAkiZWYpLGkfMPKQW19LYZEswF2Pvln89GjId_W_Z13A/33mh6167sgrexh2/update-1.0.9.zip']>
+<"1.1.5": "null">
