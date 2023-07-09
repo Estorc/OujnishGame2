@@ -1,1 +1,2 @@
 <"1.1.5": "null">
+<"1.1.6": ["download851.mediafire.com","/x7ng5tlknangJ4NNYGgrGxmHuDrFp7v1WRavh-Yfe0Kk_eDqgopsbhYCF-7sJhayFKiUg9pwnxFfOYRiXnSDvsJGQGKEYLtws4uUw_bc61hhocDXN_5sA6Kwgv6CD86BH9Q1U3QPok47JZNYNOoaINt4dbZM9a8rf0QqtAoOtzca4w/5o23focsu85hb9a/update-1.1.6.zip"]>
