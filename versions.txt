@@ -3,3 +3,4 @@
 <"1.1.8": ["raw.githubusercontent.com","/Estorc/OujnishGame2/main/update-1.1.8.zip"]>
 <"1.1.9": ["raw.githubusercontent.com","/Estorc/OujnishGame2/main/update-1.1.9.zip"]>
 <"1.1.10": ["raw.githubusercontent.com","/Estorc/OujnishGame2/main/update-1.1.10.zip"]>
+<"1.1.11": ["raw.githubusercontent.com","/Estorc/OujnishGame2/main/update-1.1.11.zip"]>
