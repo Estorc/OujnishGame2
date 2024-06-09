@@ -1,1 +1,1 @@
-<"1.69.0": "www.dropbox.com", "/pri/get/update-1.69.0.zip?_download_id=9678204446599554860099291973351731533914587343789243090599969004&_notify_domain=www.dropbox.com&_subject_uid=2209526097&w=AAC4oHraK-pR5_3MkNO_0FJO8t3FYsK8t1n8hwN9pFZNWg">
+<"1.69.0": "www.dropbox.com", "/update-1.69.0.zip?rlkey=vkpulsf69lhimx8azrgsfvvji&st=3b380b61&dl=1">
